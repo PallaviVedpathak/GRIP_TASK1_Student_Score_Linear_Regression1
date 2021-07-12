@@ -1,6 +1,6 @@
 # GRIP_TASK1_Student_Score_Linear_Regression1
 
-Supervised Machine Learning
+# Supervised Machine Learning
 
 1.Task: Predict the percentage of an student based on the no. of study hours.
 
@@ -8,7 +8,7 @@ Supervised Machine Learning
 
 3.Dataset Used: Students Scores dataset.@THE SPARKS FOUNDATION(GRIP)
 
-Submitted By: Pallavi Pandurang Vedpathak
+Submitted By: # Pallavi Pandurang Vedpathak
 
 Links:
 
