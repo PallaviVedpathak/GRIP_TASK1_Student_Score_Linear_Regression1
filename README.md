@@ -12,6 +12,6 @@ Links:
 
 a.Youtube:
 
-b.Github:
+b.Github:https://github.com/PallaviVedpathak/GRIP_TASK1_Student_Score_Linear_Regression1
 
 c.Dataset: http://bit.ly/w-data
